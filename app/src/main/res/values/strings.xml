@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RtlTabLayout</string>
+    <string name="tab1_title">Tab 1</string>
+    <string name="tab2_title">Tab 2</string>
+</resources>
